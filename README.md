@@ -1,4 +1,3 @@
-## Hi there 👋
 # Tusk
 
 Hi, I'm Tusk, also known as ThatOneTusk or ProbablyTusk 
