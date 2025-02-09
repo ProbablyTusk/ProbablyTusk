@@ -1,6 +1,6 @@
 # Tusk
 
-Hi, I'm Tusk, also known as ThatOneTusk or ProbablyTusk 
+Hi, I'm Tusk, also known as ThatOneTusk or ProbablyTusk.
 I'm a full-stack scripter on Roblox with 5+ years of experience. 
 
 ## Tech Stack
