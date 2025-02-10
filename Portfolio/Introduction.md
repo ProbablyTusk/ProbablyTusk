@@ -1,7 +1,7 @@
 # Introduction
 
 Hi! My name is Tusk, also known as ThatOneTusk or ProbablyTusk. <br>
-View some of my work at [Videos](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Videos) and [Code]() *(Note this is a mere sample of my work)*! <br>
+View some of my work at [Videos](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Videos) and [Code](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Code) *(Note this is a mere sample of my work)*! <br>
 
 Info: 
 - 5+ years of experience
@@ -23,5 +23,5 @@ Info:
 - In addition, major contributions towards various projects and games were made across the years.
 <br>
 
-# A small brief of videos and code samples, view more at [Videos](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Videos) and [Code]()
+# A small brief of videos and code samples, view more at [Videos](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Videos) and [Code](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Code)
 ## Anime Reborn
