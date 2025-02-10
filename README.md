@@ -9,8 +9,6 @@ I'm a full-stack scripter on Roblox with 5+ years of experience.
 <div align=center>
 
 ![GIF](Files/THECURSE.gif)
-<video src="Files/Emotes.mp4" width="320" height="240" controls></video>
-
 
 </div>
 
