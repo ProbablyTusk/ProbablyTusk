@@ -4,9 +4,9 @@ Hi! My name is Tusk, also known as ThatOneTusk or ProbablyTusk. <br>
 View some of my work at [Videos and Code samples]() *(Note this is a mere sample of my work)*! <br>
 
 Info: 
-- Experienced in various genres across the platform
 - 5+ years of experience
 - Full-stack scripter, able to script anything
+- Experienced in various genres across the platform
 - Able to adapt with any framework
 - Able to create well-structured workflows
 - My timezone is GMT+2
