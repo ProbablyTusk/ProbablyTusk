@@ -1,5 +1,14 @@
 # Video Samples! *In-game OST is intentionally muted.*
 
+- ## Inventory:
+[![View Inventory](https://img.youtube.com/vi/S_mbI0t7qZ0/0.jpg)](https://www.youtube.com/watch?v=S_mbI0t7qZ0)
+
+<br>
+
+- ## Trading:
+[![View Trading](https://img.youtube.com/vi/z2LFRDvm0nw/0.jpg)](https://www.youtube.com/watch?v=z2LFRDvm0nw)
+
+<br>
 
 - ## Emotes system and two emotes:
 https://github.com/user-attachments/assets/bfcd8f3a-da03-43f2-a1a9-8a0e1bafafff
@@ -30,16 +39,6 @@ https://github.com/user-attachments/assets/25e5d367-039d-4c1f-90bb-af5eea608e3a
 
 - ## Accessories:
 [![View Accessories](https://img.youtube.com/vi/4U2YwGduFM4/0.jpg)](https://www.youtube.com/watch?v=4U2YwGduFM4)
-
-<br>
-
-- ## Inventory:
-[![View Inventory](https://img.youtube.com/vi/S_mbI0t7qZ0/0.jpg)](https://www.youtube.com/watch?v=S_mbI0t7qZ0)
-
-<br>
-
-- ## Trading:
-[![View Trading](https://img.youtube.com/vi/z2LFRDvm0nw/0.jpg)](https://www.youtube.com/watch?v=z2LFRDvm0nw)
 
 <br>
 
