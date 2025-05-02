@@ -16,27 +16,28 @@
 <br>
 
 - ## Gifting:
-https://github.com/user-attachments/assets/37a98ac6-82b9-4d9d-a9b6-7a6663ac0c55
+https://github.com/user-attachments/assets/f2ddd83f-99ed-4609-8b78-23fa718154fd
 
 <br>
 
 - ## Areas and Leaderboards system and UI (Leaderboards include seasons and seasonal prizes):
-https://github.com/user-attachments/assets/4fb7f0b3-c199-4a71-b64e-6b048759d222
+https://github.com/user-attachments/assets/adca9cd8-84d1-450e-ab1e-168c954e142b
 
 <br>
 
 - ## Crafting:
-https://github.com/user-attachments/assets/c3284c80-bdb6-49ee-bc3f-8ce1c9927b33
+https://github.com/user-attachments/assets/dccf50b6-49ac-49ce-b03b-2adbdb666127
+
 
 <br>
 
 - ## Gift Inbox:
-https://github.com/user-attachments/assets/ff4c6c30-0193-4231-8c3c-54d07fc935ea
+https://github.com/user-attachments/assets/ced40da1-d6b0-4808-a1da-435ab2ce501a
 
 <br>
 
 - ## Profile and Titles UI:
-https://github.com/user-attachments/assets/11b54a6d-2cb6-4cf7-bca2-636c1ebf7858
+https://github.com/user-attachments/assets/18c30a33-3d70-4f6d-a227-3b5958673815
 
 <br>
 
