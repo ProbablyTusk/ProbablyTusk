@@ -40,7 +40,7 @@ Info:
 <br>
 
 ## Gifting:
-https://github.com/user-attachments/assets/37a98ac6-82b9-4d9d-a9b6-7a6663ac0c55
+https://github.com/user-attachments/assets/f2ddd83f-99ed-4609-8b78-23fa718154fd
 
 <br>
 
