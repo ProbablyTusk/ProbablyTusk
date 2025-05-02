@@ -11,28 +11,27 @@
 <br>
 
 - ## Emotes system and two emotes:
-https://github.com/user-attachments/assets/bfcd8f3a-da03-43f2-a1a9-8a0e1bafafff
+https://github.com/user-attachments/assets/81ddacbe-f0b2-426a-ba0e-11d7a719feee
 
 <br>
 
 - ## Custom Hotbar and a stand arrow showcase:
-
-https://github.com/user-attachments/assets/363f8cbf-3325-4db5-b5e3-087c4a5b76c1
+https://github.com/user-attachments/assets/a6de916c-120b-45f3-a672-8097582ee4ad
 
 <br>
 
 - ## Ted's Shop:
-https://github.com/user-attachments/assets/8d89e043-85aa-4c79-ac96-ad4047616127
+Uploading Ted's Shop.mp4…
 
 <br>
 
 - ## Tia's Tea (Dialogue system also made by me):
-https://github.com/user-attachments/assets/efee1a8c-06be-40d1-9756-08257fb86b40
+Uploading Tia's Tea.mp4…
 
 <br>
 
 - ## Tom's Shop:
-https://github.com/user-attachments/assets/25e5d367-039d-4c1f-90bb-af5eea608e3a
+Uploading Tom's Shop.mp4…
 
 <br>
 
