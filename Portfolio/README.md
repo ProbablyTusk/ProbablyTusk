@@ -57,6 +57,6 @@ https://github.com/user-attachments/assets/37a98ac6-82b9-4d9d-a9b6-7a6663ac0c55
 <br>
 
 ## Ted's Shop:
-https://github.com/user-attachments/assets/8d89e043-85aa-4c79-ac96-ad4047616127
+https://github.com/user-attachments/assets/034ba523-4118-45b9-82c2-3d8aa726ad1a
 
 <br>
