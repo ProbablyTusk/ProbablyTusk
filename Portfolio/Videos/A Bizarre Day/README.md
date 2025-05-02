@@ -21,17 +21,17 @@ https://github.com/user-attachments/assets/a6de916c-120b-45f3-a672-8097582ee4ad
 <br>
 
 - ## Ted's Shop:
-Uploading Ted's Shop.mp4…
+https://github.com/user-attachments/assets/034ba523-4118-45b9-82c2-3d8aa726ad1a
 
 <br>
 
 - ## Tia's Tea (Dialogue system also made by me):
-Uploading Tia's Tea.mp4…
+https://github.com/user-attachments/assets/cd814954-eca7-446d-8b59-39f030c39243
 
 <br>
 
 - ## Tom's Shop:
-Uploading Tom's Shop.mp4…
+https://github.com/user-attachments/assets/28119795-f7d1-45ee-9120-579486317267
 
 <br>
 
