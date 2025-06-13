@@ -21,8 +21,13 @@ Info:
   - Worth noting I am currently working on the 4.0 version of the game
 - [Critical Legends](https://www.roblox.com/games/8619263259/v4-0-2-Critical-Legends)
   - Worth noting I have retired from my position as a Senior Developer at Critical Legends
-- In addition, major contributions towards various projects and games were made across the years.
+
+- [Dead Sails](https://www.roblox.com/ar/games/85832836496852/Dead-Sails-DRAGON-EVENT)
+
+- In addition, major contributions towards various projects and games were made across the years, including many commissions.
 <br>
+
+
 
 # A small brief of videos, view more at [Videos](https://github.com/ProbablyTusk/ProbablyTusk/tree/main/Portfolio/Videos)
 <div align=center>
